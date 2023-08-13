@@ -32,6 +32,11 @@ _
 
 _
 
+###   <b> Visitor count:
+[![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FAsperaven%2Fasperaven&label=Views&countColor=%2337d67a&style=plastic&labelStyle=upper)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FAsperaven%2Fasperaven)
+
+_
+
 ### <b> Student at IFCE <b>  
 
 _
