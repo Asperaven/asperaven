@@ -47,10 +47,6 @@ _
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Asperaven&theme=transparent)
 
-_
-
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Asperaven&theme=transparent)
 
 _
 
