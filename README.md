@@ -1,10 +1,15 @@
-### Hi there 👋
+### 👋 Hello World! / Olá Mundo! 🌎 
 
-### Institutional E-mails: erick.carneiro.oliveira61@aluno.ifce.edu.br - IFCE
+### 📧 Institutional E-mail / E-mail institucional 📩 : erick.carneiro.oliveira61@aluno.ifce.edu.br - IFCE
 
 _
 
-### <b> Languages: 
+### <b> 📚 Fluent languages / Línguas fluentes 🗣 :
+
+🇬🇧 English / Inglês 🇺🇸
+🇧🇷 Portuguese(Brazilian) / Português (Brasileiro) 🇧🇷
+
+### <b> ⚙️ Programming languages / Linguagens de programação ⌨️ : 
 
 <div style="diplay: inline_block"><br/>
 
@@ -15,7 +20,7 @@ _
 
 _
 
-###  <b> Tools:
+###  <b> ⚒️ Tools / Ferramentas 🛠 :
 
 ![ Visual Studio ](https://img.shields.io/badge/Visual%20Studio-gray?style=plastic&logo=visualstudiocode&logoColor=%23007ACC) 
 ![ Eclipse ](https://img.shields.io/badge/Eclipse-gray?style=plastic&logo=eclipseide&logoColor=%232C2255)
@@ -27,17 +32,19 @@ _
 
 _
 
-###  <b> OS:
+###  <b> 🖥 OS / Sistemas operacionais 💻 :
 ![ Windows ](https://img.shields.io/badge/Windows-gray?style=plastic&logo=windows10&logoColor=%230078D6)  
 
 _
 
-###   <b> Visitor count:
+###   <b> 👥️ Visitor count / Contagem de visitantes 👥️:
 [![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FAsperaven%2Fasperaven&label=Views&countColor=%2337d67a&style=plastic&labelStyle=upper)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FAsperaven%2Fasperaven)
 
 _
 
-### <b> Student at IFCE <b>  
+### <b> 👨‍🏫 Student at IFCE (Since 2017) / Estudante no IFCE (Desde 2017) 👨‍🎓 <b>  
+
+### <b> 📝 Intern at Iracema Coworking (Since 2024) / Bolsista no Iracema Coworking (Desde 2024) 👨‍💻 <b>
 
 _
 
