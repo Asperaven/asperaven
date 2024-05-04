@@ -7,6 +7,7 @@ _
 ### <b> 📚 Fluent languages / Línguas fluentes 🗣 :
 
 🇬🇧 English / Inglês 🇺🇸
+<br/>
 🇧🇷 Portuguese(Brazilian) / Português (Brasileiro) 🇧🇷
 
 ### <b> ⚙️ Programming languages / Linguagens de programação ⌨️ : 
