@@ -1,6 +1,6 @@
 ### 👋 Hello World! / Olá Mundo! 🌎 
 
-### 📧 Institutional E-mail / E-mail institucional 📩 : erick.carneiro.oliveira61@aluno.ifce.edu.br - IFCE
+### 📧 Institutional e-mail / E-mail institucional 📩 : erick.carneiro.oliveira61@aluno.ifce.edu.br - IFCE
 
 _
 
